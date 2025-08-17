@@ -180,8 +180,6 @@ end)
 
 --[[
 
-first time a clean code wawawaw!
-hi LynX
-made by Kava without love </3 :(
+bullshit
 
 ]]--
