@@ -1,3 +1,4 @@
-[time=10]
-Live update[nl]This is a dogshit script[nl]Use with caution
-XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+[time=20]
+New Perception GUI update causes crashing with almost every script right now
+Wait for Timefall to fix the issue. For now use my Marvel Rivals script
+U negro.
