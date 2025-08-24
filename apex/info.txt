@@ -1,3 +1,1 @@
-[time=13]
-This is just a test window.
-Don't panic mate! Closing it soon.  yeee..
+[empty]
