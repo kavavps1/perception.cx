@@ -1,6 +1,4 @@
 [time=12]
-Game just got updated. Features might not work
-Working on the cheat update. Please be patient
-
-UPDATE: I successfully updated the cheat, testing if everything works
-Releasing in 1-3 hours becase I just woke up and i need sum coffee first =D
+Cheat is updated and fully working
+If something is missing - dm me on my discord
+This message will stop appearing in 1 hour
