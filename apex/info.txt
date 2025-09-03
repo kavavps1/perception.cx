@@ -1,9 +1,4 @@
 [time=12]
-ENG:
 Hi guys, Apex devs pushed new anti-cheat update.
 No need to worry at all. UFOHOOK is still undetected 
 but I suggest to not semi-rage (use high smooth, lower RCS/Sway a bit)
-
-CN:
-伙计们，Apex 官方发布了新的反作弊更新。大家完全不用担心。UFOHOOK 依旧稳定，
-不过我建议别太奔放（就把平滑度拉高一点，RCS/Sway 稍微调低一点就行）
