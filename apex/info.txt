@@ -1,2 +1,4 @@
-[time=7]
-Burst RCS is kinda broken, wait for the fix
+[time=15]
+It seems that Sway Compensation is incompatible with some recently added functions.
+Dont use it when you rage. Its not very noticeable if you have high smoothness set, 
+but its still there. A fix should be available in the coming days.
