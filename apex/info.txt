@@ -1,5 +1,8 @@
 [time=15]
-sup guys.
+
+Apex got updated, features might not work. 
+I will push a patch soon.
+
 Make sure to join my fresh discord server
 Invite link is in the scripts description on the pcx market
 Free configs, new feature leaks, free trials, giveaways 
