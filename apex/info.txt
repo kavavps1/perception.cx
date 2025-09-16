@@ -3,4 +3,4 @@
 Apex got updated, features might not work. 
 
 Update: Cheat got patched, testing if everything 
-works correctly. I will post more info here soon
+works correctly before releasing. I will post more info here soon
