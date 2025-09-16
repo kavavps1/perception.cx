@@ -1,6 +1,5 @@
 [time=15]
 
-Apex got updated, features might not work. 
-
-Update: Cheat got patched, testing if everything 
-works correctly before releasing. I will post more info here soon
+Alright the cheat got updated. Check the market to see if its available.
+Join my Discord server and report any bugs,
+since Im sure there might be some. this build is still in beta.
