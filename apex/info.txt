@@ -1,9 +1,6 @@
 [time=15]
 
 Apex got updated, features might not work. 
-I will push a patch soon.
 
-Make sure to join my fresh discord server
-Invite link is in the scripts description on the pcx market
-Free configs, new feature leaks, free trials, giveaways 
-and more more shit will be there. Pushing new p100 update soon
+Update: Cheat got patched, testing if everything 
+works correctly. I will post more info here soon
