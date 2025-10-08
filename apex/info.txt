@@ -1,2 +1,1 @@
-[time=8]
-It works, dm me if something is missing or any bugs spotted
+[time]
