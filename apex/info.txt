@@ -1,3 +1,2 @@
-[time=10]
-Apex just got updated - some features might be broken
-Im already working on a fix. Ill keep you informed on my discord
+[time=8]
+It works, dm me if something is missing or any bugs spotted
