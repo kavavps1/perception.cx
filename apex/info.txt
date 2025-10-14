@@ -1,4 +1,1 @@
-[time=15]
-Disabling Super-Glide is causing problems rn
-Keep it enabled, otherwise the whole cheat won't work.
-Ill push the fix soon - dont drink
+[empty]
