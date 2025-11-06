@@ -1,7 +1,5 @@
-[time=15]
-Okay pushed the update for the EA version. Wait for the mod to approve
-Also, create a ticket on my Discord server to get the Steam version if you dont have it
-
-One more thing - you can use the EA version if you play on Steam now
-The EA build of UFOHOOK works on Steam too
-Love Apex devs (hate them)
+[time=10]
+[EA] version of the UFOHOOK works currently for
+- EA
+- Steam
+and its more updated, so use that version instead
