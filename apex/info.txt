@@ -1,5 +1,1 @@
-[time=15]
-Im aware of the crashing issue and Im working hard on fixing it every day
-Dont worry - it will work as intended. The v1 version had 5x more problems, 
-and in the end everything still worked just fine. 
-Disable ALGS map for now, and glow/chams (weapons and arms too) if u keep getting crashes
+[empty
