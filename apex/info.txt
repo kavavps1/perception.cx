@@ -1,1 +1,6 @@
-[empty]
+[time=15]
+hello new Perception fellas. Enjoy using this cheat for free
+Note: this is a recode of my previous one, and its still in development,
+so its not ready for full use yet and may be buggy. Thats why Im running a free week
+to test everything before the actual release
+Join my Discord for support, configs and whatever, hf
