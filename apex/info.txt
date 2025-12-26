@@ -1,4 +1,4 @@
-[time=15]
+[time=20]
 The free week (+ a few extra days) ends tomorrow, thanks for helping test this cheat
 A lot of bugs and issues came up, but I managed to beat most of them after sweating over it all day. 
 The codebase is a total monster and putting everything together is honestly painful
