@@ -1,1 +1,6 @@
-[empty]
+[time=15]
+The free week ends tomorrow (+ a few extra days), thanks for helping test this cheat
+A lot of bugs and issues came up, but I managed to beat most of them after sweating over it all day. 
+The codebase is a total monster and putting everything together is honestly painful
+Beta guys already have a fully patched build with the final triggerbot/prediction and fixes, they are testing it right now
+Tomorrow Ill slowly start disabling licenses and restoring access only for people who bought one before. If I miss you, just open a ticket
