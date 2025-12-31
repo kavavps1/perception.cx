@@ -1,5 +1,1 @@
-[time=15]
-Remember to cap your maximum framerate below your average if 
-your overlay freezes or you experience FPS drops. 
-Perception needs some GPU space to render things properly.
-Hope that helps.
+[empty]
