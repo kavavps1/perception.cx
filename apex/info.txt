@@ -1,3 +1,3 @@
 [time=10]
-Discovered a problem with prediction, it doesnt work properly
-Update soon. 
+Prediction is fixed now. Inform me faster next time
+thank you and enjoy.
