@@ -1,2 +1,2 @@
-[time=15]
-Apex updated, wait for the patch
+[time=10]
+Updated, but not tested so ping me on discord if u see bugs or stuff
