@@ -1,1 +1,3 @@
-[empty]
+[time=10]
+Global Marks is currently down because Im switching server hosting.
+If something in the cheat doesnt load, report it in bug-reports on Discord.
