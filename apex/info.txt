@@ -1,2 +1,1 @@
-[time=10]
-Updated, but not tested so ping me on discord if u see bugs or stuff
+[empty]
