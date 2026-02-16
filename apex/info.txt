@@ -1,3 +1,2 @@
 [time=12]
-Perception had an update to their input system - if you feel delays 
-on some features, open a ticket on the PERCEPTION discord.
+Timefall just fixed lags with perception input queue, lmk if someone is still having issues
