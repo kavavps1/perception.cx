@@ -1,3 +1,3 @@
 [time=12]
-Rebind your hotkeys and check your configs
-We had to roll back to an earlier build due to stability issues
+Perception had an update to their input system - if you feel delays 
+on some features, open a ticket on the PERCEPTION discord.
